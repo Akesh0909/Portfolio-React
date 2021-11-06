@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name":"Akesh Yadav",
+    "description":"I am a web development engineer , app developer and Coder. I have built so many real world web applications and apps.",
+    "image":"profilepic.jpg",
+    "bio":"I am a web developer,app developer and Coder. I have built so many real world web applications and apps.",
+    "contactmessage":"Get In Touch - akeshrao0909a.r@gmail.com ",
+    "email": "akeshrao0909a.r@gmail.com",
+    "phone": "+91 8307714148",
+    "github":"https://github.com/Akesh0909",
+    "project":"https://github.com/Akesh0909/Portfolio",
+    "address":{
+      "city":"kanina",
+      "state":"Haryana",
+      "zip": "123027"
+    },
+    "website": "https://github.com/Akesh0909",
+    "resumedownload":"https://akesh0909.github.io/Portfolio",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/people/Akesh-Ydv/100074072975297/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"Youtube",
+        "url":"https://www.youtube.com/channel/UC0yFCyPloF9RZffCrvEBtbg",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/akesh-yadav-995b50204/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/akesh_yadav_/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Akesh0909",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Expertise Area",
+    "education":[
+      {
+        "school":"IIIT SONEPAT",
+        "degree":"Bachelor of Engineering",
+        "graduated":"2020 - 2024",
+        "description":"Computer Science and Engineering."
+      },
+      {
+        "school":"R.p.s Senior Secondary School, M.Garh",
+        "degree":"Secondary Level School Certificate",
+        "graduated":"2018 - 2019",
+        "description":"Secondary."
+      }
+    ],
+    "work":[
+      {
+        "company":"Javascript Projects",
+        "years":"April 2021 - Present",
+        "description":"Javascript Projects which shows the use of all the basic knowledge."
+      },
+      {
+        "company":"Android Projects",
+        "years":"June 2021 - Present",
+        "description":"Built Android applications that are currently being used in the real world."
+        
+      },
+      {
+        "company":"HTML/CSS/JS Projects",
+        "years":"March 2021 - Present",
+        "description":"Responsive websites designed using html,css and js."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"60%"
+      },
+      {
+        "name":"ANDROID STUDIO",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Netflixclone",
+       
+        "image":"01.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"DocEditor",
+        
+        "image":"02.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"Online_Music_Player",
+        
+        "image":"03.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"Tic-tac-toe",
+        
+        "image":"04.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"Health and Fitness",
+       
+        "image":"05.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"Weather-App",
+        
+        "image":"06.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"Portfolio",
+        
+        "image":"01.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"TextModifier",
+        
+        "image":"02.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"MusicPlayer App",
+      
+        "image":"03.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"Calculator-js",
+       
+        "image":"04.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"FitnessClub",
+       
+        "image":"05.jpg",
+        "url":"https://github.com/Akesh0909"
+      },
+      {
+        "title":"NewsApp",
+       
+        "image":"06.jpg",
+        "url":"https://github.com/Akesh0909"
+      }
+    ]
+  }
+}
