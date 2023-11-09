@@ -4,11 +4,11 @@
     "description":"I am a web development engineer , app developer and Coder. I have built so many real world web applications and apps.",
     "image":"profilepic.jpg",
     "bio":"I am a web developer,app developer and Coder. I have built so many real world web applications and apps.",
-    "contactmessage":"Get In Touch - akeshrao0909a.r@gmail.com ",
-    "email": "akeshrao0909a.r@gmail.com",
-    "phone": "+91 8307714148",
+    "contactmessage":"Get In Touch - akesh.12011005@gmail.com ",
+    "email": "akesh.12011005@gmail.com",
+    "phone": "+91 8307418051",
     "github":"https://github.com/Akesh0909",
-    "project":"https://github.com/Akesh0909/Portfolio",
+    "project":"https://github.com/Akesh0909/Portfolio-React",
     "address":{
       "city":"kanina",
       "state":"Haryana",
@@ -62,21 +62,25 @@
     ],
     "work":[
       {
-        "company":"Javascript Projects",
-        "years":"April 2021 - Present",
-        "description":"Javascript Projects which shows the use of all the basic knowledge."
-      },
-      {
-        "company":"Android Projects",
-        "years":"June 2021 - Present",
-        "description":"Built Android applications that are currently being used in the real world."
-        
-      },
-      {
-        "company":"HTML/CSS/JS Projects",
-        "years":"March 2021 - Present",
-        "description":"Responsive websites designed using html,css and js."
-      }
+      "title": "My Portfolio",
+      "date": "June 2022 – Present",
+      "description": "Full-stack web application made with JavaScript, HTML, CSS, Bootstrap, and ReactJs. Hosted on [GitHub](https://github.com/Akesh0909)."
+    },
+    {
+      "title": "Transcript-Summarizer",
+      "date": "Feb 2023 - May 2023",
+      "description": "Automatically transcribe articles and video files using APIs. Created using Python, Flask, HTML/CSS, JavaScript, and APIs."
+    },
+    {
+      "title": "College Management System",
+      "date": "Aug 2022 – Nov 2022",
+      "description": "Selective access for admin, faculty, and students with proper authentication. Interface to conduct quizzes/assessment. Students have access to all video lectures and notes. Created using PHP, HTML, CSS, JavaScript, MySQL, and XAMPP."
+    },
+    {
+      "title": "Fitness Club",
+      "date": "Dec 2021 – Mar 2022",
+      "description": "This website includes diet plans and exercise resources to provide a holistic approach to fitness and health. Created using Node.js, HTML/CSS, JavaScript, and MongoDB."
+    }
     ],
     "skills":[
       {
